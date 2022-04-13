@@ -4,7 +4,4 @@
 
 a = str(input())
 
-if a[0] == a[3] and a[1] == a[2]:
- print('True')
-else:
- print('False')
+print(str(a[0] == a[3] and a[1] == a[2]))
