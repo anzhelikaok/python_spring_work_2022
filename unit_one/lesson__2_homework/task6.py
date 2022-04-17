@@ -10,5 +10,5 @@ else:
  x=-(B/A)
  print(x)
 
-x=1==3
+
 
