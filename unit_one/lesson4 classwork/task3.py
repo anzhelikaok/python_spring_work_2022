@@ -4,11 +4,21 @@
 
 #Для получения функции числа из диапазона от 0 до 100 подключать библиотеку
 #import random
-#random.randint(0,100)
+#random.randin
 
-Random int:  0.0 <= x < 1.0
+print (list(range(10)))
 
-int:  1 <= x < 100
+import random
+a = random.randint(0, 100)
+
+for x in range(10):
+     int(input('попытка: '))
+
+b = int(input())
+If a == b:
+ print('Победа')
+ break
 
 
-a = [1]
+
+
